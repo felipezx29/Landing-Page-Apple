@@ -21,3 +21,26 @@
     color: black;
     text-decoration: none;
 }
+.cabecalho-carrossel{
+    background-image: url(images/foto-apple-event.jpg);
+    height: 38rem;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    padding: 2.5rem;
+    color: white;
+    font-size: 30px;
+    gap: 0.9rem;
+}
+.cabecalho-carrossel-link{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    padding: 0.9rem;
+    font-size: 1.2rem;
+    
+}
